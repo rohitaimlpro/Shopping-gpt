@@ -138,10 +138,6 @@ To start ShoppingGPT:
 
 ## Project Showcase 📸
 
-![ShoppingGPT Interface](public/interface.png)
-*Our user-friendly chat interface*
-
-
 ![Product Search Demo](public/product_search.png)
 *Example of product search results*
 
